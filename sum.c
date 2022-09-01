@@ -12,4 +12,3 @@ void sum() {
     printf("%d + %d = %d \n", number1, number2, sum);
    // return 0;
 }
-
