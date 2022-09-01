@@ -18,4 +18,3 @@ fibonacci.o:fibonacci.c
 	gcc -c fibonacci.c
 sort.o:sort.c
 	gcc -c sort.c
-
